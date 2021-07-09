@@ -8,4 +8,4 @@ To use, create a new folder to store the files provided, then download the files
 To use the extension, open the extension and click on whichever calculator is needed. There are currently only two calculators, but more may be added. 
 
 The first calculator is a basic calculator, used for basic math functions such as addition and multiplication. The calculator can be found at www.calculator.net
-The second calculator is a scientific and graphical calculator that can be used for more intensive mathematical problems, as well as graphing problems. This calculator can be found at www.desmos.com
+The second calculator is a scientific and graphical calculator that can be used for more intensive mathematical problems, as well as graphing problems. This calculator can be found at www.desmos.com/calculator
